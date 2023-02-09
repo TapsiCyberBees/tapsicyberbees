@@ -25,3 +25,13 @@ I'm progammer from Germany. I started progamming in March of 2022 and i love it.
  # 🧰 Tools
  
  [![My Skills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
+
+## 📊 Github Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tapsicyberbees&show_icons=true&theme=dark&icon_color=48842d&title_color=48842d&text_color=ffffff&border_color=48842d" alt="TapsiCyberBee's GitHub Stats">
+</div>
+
+<div align="center">
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapsicyberbees&count_private=true&theme=dark&icon_color=48842d&title_color=48842d&text_color=ffffff&border_color=48842d" alt="TapsiCyberBees">
+</div>
