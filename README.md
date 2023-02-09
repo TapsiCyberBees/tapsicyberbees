@@ -1,0 +1,27 @@
+<h1 align="center">Hey, im Tapsi from Cyber Bees <img src="https://cdn.discordapp.com/attachments/1027005550308884500/1033564169070461010/bee-icon-png-8.jpg" width="70px" height="70px"> </h1>
+
+I'm progammer from Germany. I started progamming in March of 2022 and i love it. My main programming langage is Java ☕.
+
+# 🔍About Me!
+
+ - 😄|Pronouns: He/Him
+
+ - 🐝|Im building currently with [@ChrisiCyberBees](https://github.com/ChrisiCyberBee) on project Cyber Bee's Bot
+
+ - 🌾|I'm currently learning how to get better in Javascript.
+ 
+ - ☕|My mainprogramming language is Java
+
+ - 🔭|I am currently working on everything and many things at the same time.
+
+ - 💭|If you have any questions, feel free to ask me!
+
+ - 📬│Contact me at Discord Chrisi | クリシ
+ 
+ # 💻 Languages
+ 
+ [![My Skills](https://skillicons.dev/icons?i=java,js,sqlite,discord,bots)](https://skillicons.dev)
+ 
+ # 🧰 Tools
+ 
+ [![My Skills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
