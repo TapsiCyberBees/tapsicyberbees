@@ -16,7 +16,7 @@ I'm progammer from Germany. I started progamming in March of 2022 and i love it.
 
  - 💭|If you have any questions, feel free to ask me!
 
- - 📬│Contact me at Discord Chrisi | クリシ
+ - 📬│Contact me at Discord [Cyber Wolf 🐺](https://discord.com/users/891679737590738985)
  
  # 💻 Languages
  
