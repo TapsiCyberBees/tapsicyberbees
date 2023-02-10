@@ -1,6 +1,6 @@
 <h1 align="center">Hey, im Tapsi from Cyber Bees <img src="https://cdn.discordapp.com/attachments/1027005550308884500/1033564169070461010/bee-icon-png-8.jpg" width="70px" height="70px"> </h1>
 
-I'm progammer from Germany. I started progamming in March of 2022 and i love it. My main programming langage is Java ☕.
+I'm progammer from Germany. I started progamming in March of 2022 and i love it. My main programming language is Java ☕.
 
 # 🔍About Me!
 
