@@ -16,12 +16,6 @@ I'm progammer from Germany. I started progamming in March of 2022 and i love it.
 
  - 📬│Contact me at Discord [Cyber Wolf 🐺](https://discord.com/users/891679737590738985)
 
- <center>
-      <a>
-        <img src="https://discord.c99.nl/widget/theme-3/891679737590738985.png" style='padding: 5px'>
-      </a>
-    </center>
- 
  # 💻 Languages
  
  [![My Skills](https://skillicons.dev/icons?i=java,js,sqlite,discord,bots)](https://skillicons.dev)
