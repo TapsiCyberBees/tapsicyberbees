@@ -7,8 +7,6 @@ I'm progammer from Germany. I started progamming in March of 2022 and i love it.
  - 😄|Pronouns: He/Him
 
  - 🐝|Im building currently with [@ChrisiCyberBees](https://github.com/ChrisiCyberBee) on project Cyber Bee's Bot
-
- - 🌾|I'm currently learning how to get better in Javascript.
  
  - ☕|My mainprogramming language is Java
 
